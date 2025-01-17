@@ -1,12 +1,12 @@
 {
-    "version": "1.3.1",
+    "version": "1.4.0",
     "description": "lite-xl plugin manager",
     "homepage": "https://github.com/lite-xl/lite-xl-plugin-manager",
     "license": "https://github.com/lite-xl/lite-xl-plugin-manager/blob/master/LICENSE",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/lite-xl/lite-xl-plugin-manager/releases/download/v1.3.1/lpm.x86_64-windows.exe#/lpm.exe",
-            "hash": "5c8e6dcf359c365183aaa18c7d474744493c7965eb5d561be8ebb7e17e3d56c7"
+            "url": "https://github.com/lite-xl/lite-xl-plugin-manager/releases/download/v1.4.0/lpm.x86_64-windows.exe#/lpm.exe",
+            "hash": "b9d8e7867800b79b8524f3d29bae538a2213f275df560b6a63c4eeecd9ced557"
         }
     },
     "bin": "lpm.exe",
